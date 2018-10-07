@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
-date: 2014-04-30
+title: "Justin O'Reilly, Montly Blog , Posts"
+date: 2018-10-5
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+I feel excelent about Mr.Allata class this year, We get to make our own website and also our own game with a partner. I'm learning a lot about coding and the class is learning how to make our own game. My struggle was my website and adding blog post to it and my challenges are making this video game because me and my partner dont have the same ideas.
