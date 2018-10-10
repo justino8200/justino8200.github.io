@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Justin O'Reilly, Weekly Reflection
-Date:2018-09-29
+title: "Hank Quinlan, Horrible Cop, Launches Site"
+date: 2018-09-28
 ---
 
-I feel excelent about Mr.Allata class this year, We get to make our own website and also our own game with a partner. I'm learning a lot about coding and the class is learning how to make our own game. My struggle was my website and adding blog post to it and my challenges are making this video game because me and my partner dont have the same ideas.
+I feel Amazing about this class. My challenges are that me and my partner don't have the same ideas for the game we are creating together.
