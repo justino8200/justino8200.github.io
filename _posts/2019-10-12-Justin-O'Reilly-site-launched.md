@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "Justin O'Reilly, Weekly Reflection"
 date: 2018-10-12
 ---
 
