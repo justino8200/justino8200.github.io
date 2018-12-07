@@ -1,7 +1,7 @@
 ---
 layout: post
 tittle: "flag collage"
-date: 2018-12-04
+date: 2018-12-07
 ---
 
   My flag is rectangular with a sideways triangle that has a white star inside with blue and white stripes going down the flag.The Cuban flag is at a length-to-width ratio of 2:1. The blue and white alternating stripes are of equal width. The red chevron is in the shape of an equilateral triangle that does not extend to the middle of the flag. The star within the chevron has a radius that is ​3⁄20 the length of the hoist. Its middle is halfway up the flag.
