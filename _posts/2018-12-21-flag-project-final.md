@@ -4,14 +4,11 @@ title: "Flag Project - Final Submission"
 date: 2018-12-21
 ---
 
-## Flag of _insert your country_ by _insert your name_
+## Flag of Puerto Rico by Justin O'Reilly
 
 ## Describe your program
 
--   What country did you design for? _then delete this instruction_
--   What grade do you expect? _then delete this instruction_
-
-<!--- Delete this comment and add your writing -->
+I designed for Puerto Rico and I expect an practitioner or apprentice.
 
 ## Current output
 
@@ -23,33 +20,48 @@ date: 2018-12-21
 
 ## Describe your process.
 
--   What questions, strategies, help from peers or teacher, or thinking got you to this point? _then delete this instruction_
+-   
 
-<!--- Delete this comment and add your writing -->
+I got help from one of my peers that is not in my class but in my advisory. He guided me into programming the flag and making it straight with no incorrect codes.
 
 
 ## Explain your code.
 
--   Choose a significant part of your program (15 lines max) and paste it below. Do not insert your entire program here. _then delete this instruction_
--   Explain each argument in the code section. _then delete this instruction_
--   Tell us how it functions independently and within the whole program _then delete this instruction_
+
+
+* * *(define TRIANGLEPART2(rotate Cuba TRIANGLEPART)) In this section I am programming the triangle to be rotated to it side so I can put the star-polygon inside.
+(define STARPART(star-polygon (* size 14) size 2 "solid" "white")) I am programming the Star-polygon 
+(define LINEBASE (put-image LINE height (* size 42) FLAG)) Fixing the lines to be straight and in the right position 
+(define LINE2BASE (put-image LINE height (* size 18) LINEBASE))Fixing the lines to be straight and in the right position
+(define TRIANGLEBASE (put-image TRIANGLEPART2 (* size 25) (* size 30) LINE2BASE)) Inserting the triangle inside the rectangle so I can the put the Star-polygon inside.
+```
 
 * * *
 
-```
-Insert 10-15 line code section here _then delete this instruction_
-```
+-  
 
-* * *
-
--   Explain the code you posted by telling us about each argument.
--   Then tell us how your code section fits into the whole.
  
-<!--- Delete this comment and add your writing -->
+
 
 
 ## Program code
 
 ```
-Insert entire program here _then delete this instruction_
+(define size 5)
+(define Width (* size 120))
+(define height (* size 60))
+(define FLAG(rectangle Width height "solid" "blue"))
+(define stripeheight (* size 12))
+(define LINE (rectangle Width stripeheight "solid" "white" ))
+(define TRIANGLEPART(triangle height "solid" "red"))
+(define Cuba 270)
+(define TRIANGLEPART2(rotate Cuba TRIANGLEPART))
+(define STARPART(star-polygon (* size 14) size 2 "solid" "white"))
+
+
+(define LINEBASE (put-image LINE height (* size 42) FLAG))
+(define LINE2BASE (put-image LINE height (* size 18) LINEBASE))
+(define TRIANGLEBASE (put-image TRIANGLEPART2 (* size 25) (* size 30) LINE2BASE))
+(define STARBASE (put-image STARPART (* size 17) (* size 30) TRIANGLEBASE))
+STARBASE
 ```
