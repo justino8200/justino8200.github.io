@@ -39,7 +39,7 @@ I got help from one of my peers that is not in my class but in my advisory. He g
 ```
 
 * * *
-
+In this section I am programming the triangle to be rotated to it side so I can put the star-polygon inside.I am programming the Star-polygon Fixing the lines to be straight and in the right position Fixing the lines to be straight and in the right position. Inserting the triangle inside the rectangle so I can the put the Star-polygon inside.
 
 
  
