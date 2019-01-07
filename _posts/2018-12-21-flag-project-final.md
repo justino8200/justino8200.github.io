@@ -12,7 +12,7 @@ I designed for Puerto Rico and I expect an practitioner or apprentice.
 
 ## Current output
 
--   Insert an image that your program currently produces. _then delete this instruction_
+
 
 * * *
 ![Flag](/images/final-flag.png)
@@ -20,7 +20,7 @@ I designed for Puerto Rico and I expect an practitioner or apprentice.
 
 ## Describe your process.
 
--   
+
 
 I got help from one of my peers that is not in my class but in my advisory. He guided me into programming the flag and making it straight with no incorrect codes.
 
@@ -29,7 +29,9 @@ I got help from one of my peers that is not in my class but in my advisory. He g
 
 
 
-* * *(define TRIANGLEPART2(rotate Cuba TRIANGLEPART)) In this section I am programming the triangle to be rotated to it side so I can put the star-polygon inside.
+* * *
+```
+(define TRIANGLEPART2(rotate Cuba TRIANGLEPART)) In this section I am programming the triangle to be rotated to it side so I can put the star-polygon inside.
 (define STARPART(star-polygon (* size 14) size 2 "solid" "white")) I am programming the Star-polygon 
 (define LINEBASE (put-image LINE height (* size 42) FLAG)) Fixing the lines to be straight and in the right position 
 (define LINE2BASE (put-image LINE height (* size 18) LINEBASE))Fixing the lines to be straight and in the right position
@@ -38,7 +40,7 @@ I got help from one of my peers that is not in my class but in my advisory. He g
 
 * * *
 
--  
+
 
  
 
